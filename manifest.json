@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "SIGHT Tools — IEEE SIGHT Companion",
+  "version": "1.1.0",
+  "description": "Official productivity companion for IEEE SIGHT members worldwide. PDF tools, Vtools links, SAR form & more — all local, no server needed.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "SIGHT Tools"
+  },
+  "permissions": [
+    "storage",
+    "tabs",
+    "downloads"
+  ],
+  "host_permissions": [],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
