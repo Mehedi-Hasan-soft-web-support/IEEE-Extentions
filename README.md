@@ -9,7 +9,7 @@
 ---
 <img width="1918" height="1075" alt="image" src="https://github.com/user-attachments/assets/b0f8dc89-1d76-4c7c-8b93-01351d503a93" />
 
-<img width="522" height="743" alt="image" src="https://github.com/user-attachments/assets/29173a46-4e13-4216-a8ad-0d257b78dee9" />
+
 
 
 ## ✨ বৈশিষ্ট্য (Features)
@@ -22,6 +22,7 @@
 - 🎯 **IEEE Official** - IEEE এর সরকারী সহযোগী
 
 ---
+<img width="222" height="443" alt="image" src="https://github.com/user-attachments/assets/29173a46-4e13-4216-a8ad-0d257b78dee9" />
 
 ## ⚡ দ্রুত ইনস্টলেশন (Quick Install)
 
